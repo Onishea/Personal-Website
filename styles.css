@@ -15,12 +15,6 @@ complementary green to dark pink: #83eaaf*/
     text-decoration: none;
 }
 
-.banner {
-    flex: inline-block;
-    color: black;
-    background-color: yellow;
-    
-}
 header {
     position: fixed;
     top: 0;
@@ -369,6 +363,14 @@ section {
     height: 10vh;
     align-items: space-between;
     justify-content: space-between;
+}
+
+.banner {
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    background-color: yellow;
+    color: black;
 }
 
 @media (max-width: 1560px) {
