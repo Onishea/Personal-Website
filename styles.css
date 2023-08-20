@@ -15,7 +15,12 @@ complementary green to dark pink: #83eaaf*/
     text-decoration: none;
 }
 
-
+.banner {
+    flex: inline-block;
+    color: black;
+    background-color: yellow;
+    
+}
 header {
     position: fixed;
     top: 0;
