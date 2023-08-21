@@ -365,13 +365,6 @@ section {
     justify-content: space-between;
 }
 
-.banner {
-    display: flex;
-    height: 10vh;
-    align-items: center;
-    background-color: yellow;
-    color: black;
-}
 
 @media (max-width: 1560px) {
     header{
